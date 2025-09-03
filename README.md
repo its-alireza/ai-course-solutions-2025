@@ -16,3 +16,4 @@ The original exercises are available in the instructor’s repository:
 |📘 Exercise|📄 Question|✅ Solution|
 |----------|----------|----------|
 | Exercise 01 | [question](https://github.com/MhmudAlpurd/AI-Engineer-Training-Course/blob/main/08_exercises/ex01_python.pdf) | [solution](01_python/Exercise_01) |
+| Exercise 05 - 06 | [question](https://github.com/MhmudAlpurd/AI-Engineer-Training-Course/blob/main/08_exercises) | [solution](02_numpy/Exercise_05_06) |
