@@ -23,3 +23,10 @@ The original exercises are available in the instructor’s repository:
 |📘 Exercise|📄 Question|✅ Solution|
 |----------|----------|----------|
 | Exercise 08 | [question](https://github.com/MhmudAlpurd/AI-Engineer-Training-Course/blob/main/08_exercises/ex08_Matplotlib.pdf) | [solution](03_matplotlib/Exercise_08) |  |
+
+## 🤖 Machine Learning
+
+|📘 Exercise|📄 Question|✅ Solution|
+|----------|----------|----------|
+| Exercise 11 | [question](https://github.com/MhmudAlpurd/AI-Engineer-Training-Course/blob/main/08_exercises/ex11_linear_regression.pdf) | [solution](04_machine_learning/Exercise_11) |
+| Exercise 13 | [question](https://github.com/MhmudAlpurd/AI-Engineer-Training-Course/blob/main/08_exercises/ex13_KNN.pdf) | [solution](04_machine_learning/Exercise_13) |
